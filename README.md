@@ -40,7 +40,7 @@ My name is Hunor, a junior full-stack developer from [Makers Academy] available 
  
 
 
-## Experience
+## Experience before [Makers Academy]
 
 **Village East of Bermondsey** (2016 march to 2018 jan)    
 *Headwaiter/Team Trainer*  
@@ -53,6 +53,23 @@ My name is Hunor, a junior full-stack developer from [Makers Academy] available 
 **Cunard's Queen Elizabeth MS** (2011 december to 2012 february)     
 *Junior waiter*  
 
+### I care about
+  - Diversity in tech
+  - Docker / DevOps
+  - IoT
+  - Fintech
+  - JavaScript
+
+### You can also talk with me about
+  - Wine, Whisky
+  - Cooking all the english breakfasts and MR burgers and best steaks
+  - Self development / Emotional intelligence / Success
+
+### Sports I do
+  - Table tennis
+  - Tennis
+  - Football
+  
 I speak Hungarian, Romanian and English
 
 [Makers Academy]: https://www.makersacademy.com
