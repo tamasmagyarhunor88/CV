@@ -74,10 +74,10 @@ My name is Hunor, a husband, father and since graduating from [Makers Academy] I
 
 ## Contact
 
-  Call me:    07901040842
-  mail me:    tamasmagyarhunor88@gmail.com
-  LinkedIn:   https://www.linkedin.com/in/magyar-hunor-tamás-92a59b117/
-  Twitter:    https://twitter.com/tamasmagyarhuno
+  - Call me:    07901040842
+  - mail me:    tamasmagyarhunor88@gmail.com
+  - LinkedIn:   https://www.linkedin.com/in/magyar-hunor-tamás-92a59b117/
+  - Twitter:    https://twitter.com/tamasmagyarhuno
 
 I speak Hungarian, Romanian and English
 
