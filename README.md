@@ -10,7 +10,7 @@ My name is Hunor, a junior full-stack developer from [Makers Academy] available 
 | Ruby on Rails | Ruby | Swift/Xcode | **M**ongoDB, **E**xpress, **R**eact, **N**ode |
 
 
-#### Tech stack and ideologies
+## Tech stack and ideologies
 
 *During my 16 weeks at [Makers Academy](http://www.makersacademy.com/), I learned:*
 
