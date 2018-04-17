@@ -7,7 +7,7 @@ My name is Hunor, a junior full-stack developer from [Makers Academy] available 
 | [FoodOnRails] | [Oystercard] | [Mediminder] | [LocalizR] 
 |:-------------- |:------------- |:------------ |:------------ |
 | A Yelp clone week project at Makers Academy | OOP principles with TDD, Single responsibility principle | An app to remind you to take your medicine. Swift4/Xcode9 | A language learning adventure game. Node, Express, MongoDB, React |
-| Ruby on Rails | Ruby | Swift/Xcode | **M**ongoDB, **E**xpress, **R**eact, **N**ode |
+| Ruby on Rails | Ruby/RSpec | Swift/Xcode | **M**ongoDB, **E**xpress, **R**eact, **N**ode |
 
 
 ## Tech stack and ideologies
