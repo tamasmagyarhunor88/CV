@@ -1,6 +1,6 @@
 ## Tamas Magyar-Hunor - CV
 
-My name is Hunor, a junior full-stack developer from [Makers Academy] available for a new role in London. I am a super enthusiastic person looking to work together with a tech team in a company where I can contribute to the growth of the company and I can grow as well.
+My name is Hunor, a husband, father and since graduating from [Makers Academy] I am a junior full-stack developer available for a new role in London. I am a super enthusiastic person looking to work together with a tech team in a company where I can contribute to the growth of the company and I can grow as well.
 
 ## Recent Projects
 
@@ -64,12 +64,21 @@ My name is Hunor, a junior full-stack developer from [Makers Academy] available 
   - Wine, Whisky
   - Cooking all the english breakfasts and MR burgers and best steaks
   - Self development / Emotional intelligence / Success
+  - I love to talk/argue about strategies of sales/politics/approaches
 
 ### Sports I do
   - Table tennis
   - Tennis
   - Football
-  
+
+
+## Contact
+
+  Call me:    07901040842
+  mail me:    tamasmagyarhunor88@gmail.com
+  LinkedIn:   https://www.linkedin.com/in/magyar-hunor-tamás-92a59b117/
+  Twitter:    https://twitter.com/tamasmagyarhuno
+
 I speak Hungarian, Romanian and English
 
 [Makers Academy]: https://www.makersacademy.com
