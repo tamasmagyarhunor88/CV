@@ -6,7 +6,7 @@ My name is Hunor, a husband, father and since graduating from [Makers Academy] I
 
 | [FoodOnRails] | [Oystercard] | [Mediminder] | [LocalizR] 
 |:-------------- |:------------- |:------------ |:------------ |
-| A Yelp clone week 8 group project at Makers Academy | OOP principles with TDD, Single responsibility principle | An app to remind you to take your medicine. Week 9 group project| A full stack language learning adventure game, out final group project. |
+| A Yelp clone week 8 group project at Makers Academy | A 2nd week project to learn OOP principles with TDD, Single responsibility principle | An app to remind you to take your medicine. Week 9 group project| A full stack language learning adventure game, out final group project. |
 | Ruby on Rails | Ruby/RSpec | Swift/Xcode | **M**ongoDB, **E**xpress, **R**eact, **N**ode |
 
 
