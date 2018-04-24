@@ -34,6 +34,7 @@ My name is Hunor, a husband, father and since graduating from [Makers Academy] I
   - Jest/cypress
 
 ## Skills
+ - The ability to break down tasks into small pieces by asking all the questions that might be related to the task, drawing out user journey, thinkings from inside out and solve tasks step by step
  - Excellent team player. The feedback from my pair partners and colleagues is that I'm a good navigator because I can see and stick to the high level goals efficiently, I am very enthusiastic and passionate during solving challenges.
  - Sticking to XP values. Respecting my pair partners/team mates, having the Courage to give Feedback, to Communicate and keep things Simple keeps the team efficient.
  - I love to [help and inspire](https://scontent-lhr3-1.xx.fbcdn.net/v/t31.0-8/29750049_1882637895109092_1484795324372543323_o.jpg?_nc_cat=0&_nc_eui2=v1%3AAeGwN0F9q7q2cLc_9WSlxa3GqGly318eVdLd_eYs2KNJMpzS7R-GhWD8XST0s-CDB1MEhqPv15LR4nsLMmZhULuw7O-4nkX2Lo9f_OsOdEXjmA&oh=45515bfa25034a6e931177ccc63cf714&oe=5B3A7BCE) others. During my professional career I've met tens of thousands of people and I learned how to be a good collaborator in any partnership ( working with clients/team members )
